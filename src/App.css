@@ -1,0 +1,27 @@
+.main-wrap{
+    margin-bottom: 5vh;
+}
+.thead-dark{
+    font-size: 15px;
+}
+.text-primary{
+    margin-top: 100px;
+}
+#showDiv{
+    display: none;
+}
+#logout{
+    display: none;
+}
+#hide{
+    display: none;
+}
+#wrapper-main{
+    min-height: 100vh;
+}
+#bg{
+    margin-top: -40px;
+    background-image: url("https://images.pexels.com/photos/723240/pexels-photo-723240.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+    height: 100vh;
+    background-repeat: no-repeat;
+}
