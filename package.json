@@ -12,7 +12,7 @@
     "@testing-library/user-event": "^7.2.1",
     "@version/react-router-v3": "^1.0.0",
     "dotenv": "^8.2.0",
-    "firebase": "^7.14.0",
+    "firebase": "^10.9.0",
     "firebaseauth": "^1.0.0",
     "jquery": "^3.4.1",
     "react": "^16.13.1",
